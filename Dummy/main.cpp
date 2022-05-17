@@ -2,9 +2,9 @@
 
 
 
-int main()
+int main(int hi)
 {
-
+hi = 10;
 
 
 return 0;
